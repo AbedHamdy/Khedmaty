@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Client;
 
 use Illuminate\Http\Request;
-use App\Http\Controller;
+use App\Http\Controllers\Controller;
 use App\Models\Order; // لو عندك موديل للأوردرات
 use App\Models\ServiceRequest;
 
